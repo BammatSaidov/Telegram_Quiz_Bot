@@ -1,0 +1,2 @@
+BOT_TOKEN = "8313381342:AAG5elR1X2B-7WiS0_YMNmRnt5qk1HOWzaU"
+DB_NAME = "quiz_results.db"
